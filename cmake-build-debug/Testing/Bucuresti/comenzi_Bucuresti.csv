@@ -1,0 +1,25 @@
+﻿nume, produs, cantitate,pret_total
+Alex,(Cappuccino,Cafea),(1,2),30.00
+andrei,(Chec),(1),12.00
+andrei,(Latte),(2),20.00
+andrei,(Cappuccino),(1),10.00
+andrei,(Cafea),(1),9.00
+Mihai,(Cafea),(1),10.00
+Popanica,(Chec,Latte,Sirop),(2,5,5),124.00
+Mihai,(Chec),(2),24.00
+Mikshake,(Milkshake),(2),24.00
+Popanica,(Sirop),(5),100.00
+Mihai,(Chec),(1),12.00
+Nastase,(Chec,Milkshake),(1,2),36.00
+Mimi,(Chec),(1),12.00
+Miha,(Ciocolata calda),(1),15.00
+Mihaela,(Milkshake),(1),12.00
+Mihaela,(Flat white cu aroma),(1),15.00
+Mihaela,(Ciocolata calda),(1),15.00
+Mihaela,(Milkshake),(1),12.00
+Mihaela,(Cafea),(1),10.00
+Mihaela,(Cafea),(1),8.00
+Mihaela,(Cafea),(1),8.00
+Mihaela,(Ciocolata calda),(1),12.00
+Mihaela,(Ciocolata calda),(1),12.00
+Mihaela,(Ciocolata calda),(1),12.00

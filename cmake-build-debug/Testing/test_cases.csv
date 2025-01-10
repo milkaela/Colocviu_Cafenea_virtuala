@@ -1,0 +1,21 @@
+ID,Test,Date de Intrare,Rezultat Asteptat,Rezultat Obținut,Status
+T01,Adaugare produs,Nume: Espresso :: Pret: 10.50,Produs adaugat cu succes,Produsul Espresso a fost adaugat,Reusit
+T02,Modificare produs,Nume: Espresso :: Pret nou: 12.00,Produs modificat cu succes,Pretul produsului Espresso a fost modificat,Reusit
+T03,Stergere produs,Nume: Latte,Produs sters cu succes,Produsul/ingredientul Latte a fost sters,Reusit
+T04,Afisare produse,,Produsele au fost afisate corect,Lista afisata corect,Reusit
+T05,Adaugare ingredient,Nume: Lapte,Ingredient adaugat cu succes,Ingredientul Lapte a fost adaugat,Reusit
+T06,Modificare ingredient,Nume: Lapte :: Cantitate noua: 20,Ingredient modificat cu succes,Cantitatea pentru ingredientul Lapte a fost actualizata,Reusit
+T07,Stergere ingredient,Nume: Zahar,Ingredient sters cu succes,Ingredientul Zahar a fost sters,Reusit
+T08,Stergere produs,Nume: Cappuccino,Produs sters cu succes,Produsul/ingredientul Cappuccino a fost sters,Reusit
+T09,Creare comanda,Produse: ("Chec"(1) :: "Milkshake"(2)),Comanda creata cu succes,Pret total comanda: 36.00 RON,Reusit
+T10,Vizualizare comenzi in limba romana,,Comenzi afisate corect,Comenzi afisate,Reusit
+T11,Calcul cost ingrediente,,Cost calculat corect,Cost calculat corect,Reusit
+T12,Adaugare eveniment,Nume: "Workshop Cafea" :: Data: "10.01.2025" :: Cost: 500 :: Participanti: 20 :: PretPerPersoana: 25,Eveniment adaugat cu succes,Eveniment adaugat cu succes,Reusit
+T13,Afisare evenimente in limba engleza,,Lista evenimentelor tradusa corect,Lista afisata corect,Reusit
+T14,Calcul profit evenimente,,Profit calculat corect,Profitul total din evenimente este: (e calculat corect),Reusit
+T15,Generare raport,Data raport: "10.01.2025",Raport generat si salvat,Raport corect si afisat,Passed
+T16,Gestionare fisier angajati,,../invalid_path/employees.csv,Mesaj de eroare: "Nu a fost gasit fisierul CSV pentru angajati.",Reusit
+T17,Adaugare produs cu cantitate negativa,Nume: "Mochi" :: Cantitate: -5 :: Pret: 10,Mesaj de eroare: "Cantitate invalida!",Eroare: Cantitatea nu poate fi negativa,Reusit
+T18,Stergere produs inexistent,Nume: "Flat White",Mesaj de eroare: "Produs inexistent!",Produsul/ingredientul 'Flat' nu a fost gasit,Reusit
+T19,Afisare produse in limba engleza,,Lista produselor tradusa corect,Lista afisata corect,Reusit
+T20,Simulare comanda cu produse inexistente,Produse: (Chai Latte),Mesaj de eroare: "Comanda nu poate fi procesata",Mesaj afisat,Reusit
